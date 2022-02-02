@@ -3,9 +3,9 @@
 #### Ingeniero en Sistemas Informáticos
 
 Analista Funcional - Arquitecto/Desarrollador de Software en **[EPESF](https://www.epe.santafe.gov.ar)**  
-Cursando 1er año de la **Maestría en Explotación de Datos y Gestión del Conocimiento** - Universidad Austral  
+Cursando 2do año de la **Maestría en Explotación de Datos y Gestión del Conocimiento** - Universidad Austral  
 Profesor de **Algoritmos y Estructuras de Datos** / **C**  
-Trabajo mayormente con Progress 4GL, JavaScript, Python. Aprendiendo R
+Trabajo mayormente con Progress 4GL, JavaScript, Python. Algo de R y C.
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
