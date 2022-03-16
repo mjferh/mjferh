@@ -3,7 +3,7 @@
 Argentinean/Polish **Systems Engineer** living in [Rosario](https://www.google.com.ar/maps/place/Rosario,+Santa+Fe/) with more than 15 years of experience designing and developing software for different industries and platforms (mostly Java | Php and nowadays Progress 4GL | JavaScript | Python). 
 
 Currently,  
-* Working in the utility sector. **Software development** related to electric power commercialization at [EPESF](https://www.epe.santafe.gov.ar). 
+* Working in the utility sector. **Software development** related to electric energy commercialization at [EPESF](https://www.epe.santafe.gov.ar). 
 * Part-time professor of **algorithms, data structures and C**.
 * Doing the last year of the **Master's Degree in Data Mining and Knowledge Management** at [Universidad Austral](http://https://www.austral.edu.ar/ingenieria-posgrados/).
 * Studying **Polish language**.
